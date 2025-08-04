@@ -8,7 +8,7 @@ I'm a Software Engineering student and a full-stack MERN developer. Currently, I
 
 **Internship:** Currently working as a Front-End Developer at a High-Tech Software House and Training Centre.
 
-**University Project:** Served as a team member in the IT Department for ZabeFest-2025 at my university.
+**University Tech Event:** Served as a team member in the IT Department for ZabeFest-2025 at my university.
 
 **Remote Internships:** Completed two 4-week internships in Java and C++ during my university's first year.
 
@@ -43,5 +43,6 @@ I'm a Software Engineering student and a full-stack MERN developer. Currently, I
 **LinkedIn:** https://www.linkedin.com/in/arun-kumar-b578a128b
 
 **Portfolio:** https://arunkumar-three.vercel.app/
+
 
 
