@@ -29,7 +29,11 @@ Soft Skills: Communication, Problem-Solving, Leadership, Teamwork
 
 **Contact 📧**
 
-Email: arunkumarjuswani12@gmail.com
-GitHub: arunkumar231105
-LinkedIn: https://www.linkedin.com/in/arun-kumar-b578a128b
-Portfolio: https://arunkumar-three.vercel.app/
+**Email:** arunkumarjuswani12@gmail.com 
+
+**GitHub:** arunkumar231105
+
+**LinkedIn:** https://www.linkedin.com/in/arun-kumar-b578a128b
+
+**Portfolio:** https://arunkumar-three.vercel.app/
+
