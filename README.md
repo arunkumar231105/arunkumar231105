@@ -1,48 +1,31 @@
-**Hello! I'm Arun Kumar**
+# Hello! I'm Arun Kumar 👋
 
-**About Me 👋**
+## About Me  
+I'm a Software Engineering student and a full-stack MERN developer. Currently pursuing a Cloud Data Engineering course at SMIT. I love building innovative web applications and exploring cloud technologies!
 
-I'm a Software Engineering student and a full-stack MERN developer. Currently, I'm pursuing a Cloud Data Engineering course at SMIT. I love building innovative web applications and exploring cloud technologies!
+## My Experiences 🌟  
+- 💻 **Internship:** Currently working as a Software Engineer (AI) Intern at **HexaVibes Solutions**  
+  → Prototyping generative AI solutions using LLMs and transformers, building AI-driven software systems, collaborating on experimental features, and maintaining code/documentation. *(2-month internship)*  
+- 🎨 **Front-End Developer Intern** at a High-Tech Software House and Training Centre  
+- 🎪 **University Tech Event:** IT Team Member – ZabeFest 2025  
+- 🌐 **Remote Internships:** Java & C++ (4 weeks each) during 1st year of university
 
-**My Experiences 🌟**
-
-**Internship:** Currently working as a Front-End Developer at a High-Tech Software House and Training Centre.
-
-**University Tech Event:** Served as a team member in the IT Department for ZabeFest-2025 at my university.
-
-**Remote Internships:** Completed two 4-week internships in Java and C++ during my university's first year.
-
-**Technical Skills 🛠️**
-
-**Programming Languages:** JavaScript, Java, C/C++, SQL, HTML, CSS
-
-**Frameworks:** React, Node.js, Next.js, Chakra UI
-
-**Tools:** Git, GitHub, VS Code, Firebase, Vercel, Figma, TensorFlow.js
-
+## Technical Skills 🛠️  
+**Languages:** JavaScript, Java, C/C++, SQL, HTML, CSS  
+**Frameworks:** React, Node.js, Next.js, Chakra UI  
+**Tools:** Git, GitHub, VS Code, Firebase, Vercel, Figma, TensorFlow.js  
 **Soft Skills:** Communication, Problem-Solving, Leadership, Teamwork
 
-**Certifications 📜**
+## Certifications 📜  
+- **AWS Educate:** Introduction to Cloud  
+- **Simplilearn:** Front-End Development (HTML, CSS, JS, Git, GitHub)
 
-**AWS Educate:** Completed "Introduction to Cloud" covering cloud fundamentals and AWS basics.
+## Volunteer Experience 🤝  
+- **IEEE Society:** Director  
+- **DHOR Edu Clan:** Volunteer (2022–2023)
 
-**Simplilearn:** Completed a Front-End Development course, covering HTML, CSS, JavaScript, Git, and GitHub.
-
-**Volunteer Experience 🤝**
-
-**IEEE Society:** Worked as a Director.
-
-**DHOR Edu Clan:** Volunteered in 2022 and 2023.
-
-**Contact 📧**
-
-**Email:** arunkumarjuswani12@gmail.com 
-
-**GitHub:** arunkumar231105
-
-**LinkedIn:** https://www.linkedin.com/in/arun-kumar-b578a128b
-
-**Portfolio:** https://arunkumar-three.vercel.app/
-
-
-
+## Contact 📧  
+📩 Email: arunkumarjuswani12@gmail.com  
+💻 GitHub: [arunkumar231105](https://github.com/arunkumar231105)  
+🔗 LinkedIn: [Arun Kumar](https://www.linkedin.com/in/arun-kumar-b578a128b)  
+🌐 Portfolio: [arunkumar-three.vercel.app](https://arunkumar-three.vercel.app/)
