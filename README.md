@@ -17,8 +17,9 @@ I'm a Software Engineering student and a full-stack MERN developer. Currently pu
 **Soft Skills:** Communication, Problem-Solving, Leadership, Teamwork
 
 ## Certifications 📜  
-- **AWS Educate:** Introduction to Cloud  
-- **Simplilearn:** Front-End Development (HTML, CSS, JS, Git, GitHub)
+- ☁️ **AWS Educate:** Introduction to Cloud  
+- 🎨 **Simplilearn:** Front-End Development (HTML, CSS, JS, Git, GitHub)  
+- 🤖 **Oracle Certified:** AI Foundations Associate  
 
 ## Volunteer Experience 🤝  
 - **IEEE Society:** Director  
@@ -29,3 +30,4 @@ I'm a Software Engineering student and a full-stack MERN developer. Currently pu
 💻 GitHub: [arunkumar231105](https://github.com/arunkumar231105)  
 🔗 LinkedIn: [Arun Kumar](https://www.linkedin.com/in/arun-kumar-b578a128b)  
 🌐 Portfolio: [arunkumar-three.vercel.app](https://arunkumar-three.vercel.app/)
+
