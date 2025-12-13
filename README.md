@@ -5,7 +5,7 @@ I'm a Software Engineering student and a full-stack MERN developer. Currently pu
 
 ## My Experiences 🌟  
 - 💻 **Internship:** Currently working as a Software Engineer (AI) Intern at **HexaVibes Solutions**  
-  → Prototyping generative AI solutions using LLMs and transformers, building AI-driven software systems, collaborating on experimental features, and maintaining code/documentation. *(2-month internship)*  
+  → Prototyping generative AI solutions using LLMs and transformers, building AI-driven software systems, collaborating on experimental features, and maintaining code/documentation. 
 - 🎨 **Front-End Developer Intern** at a High-Tech Software House and Training Centre  
 - 🎪 **University Tech Event:** IT Team Member – ZabeFest 2025  
 - 🌐 **Remote Internships:** Java & C++ (4 weeks each) during 1st year of university
@@ -30,6 +30,7 @@ I'm a Software Engineering student and a full-stack MERN developer. Currently pu
 💻 GitHub: [arunkumar231105](https://github.com/arunkumar231105)  
 🔗 LinkedIn: [Arun Kumar](https://www.linkedin.com/in/arun-kumar-b578a128b)  
 🌐 Portfolio: [arunkumar-three.vercel.app](https://arun-kumar.vercel.app/)
+
 
 
 
