@@ -1,5 +1,67 @@
-# 💫 About Me:
-About Me<br>I'm a Software Engineering student and a full-stack MERN developer. Currently pursuing a Cloud Data Engineering course at SMIT. I love building innovative web applications and exploring cloud technologies!<br><br>My Experiences 🌟<br>💻 Internship: Currently working as a Software Engineer (AI) Intern at HexaVibes Solutions<br>→ Prototyping generative AI solutions using LLMs and transformers, building AI-driven software systems, collaborating on experimental features, and maintaining code/documentation.<br>🎨 Front-End Developer Intern at a High-Tech Software House and Training Centre<br>🎪 University Tech Event: IT Team Member – ZabeFest 2025<br>🌐 Remote Internships: Java & C++ (4 weeks each) during 1st year of university<br>Technical Skills 🛠️<br>Languages: JavaScript, Java, C/C++, SQL, HTML, CSS<br>Frameworks: React, Node.js, Next.js, Chakra UI<br>Tools: Git, GitHub, VS Code, Firebase, Vercel, Figma, TensorFlow.js<br>Soft Skills: Communication, Problem-Solving, Leadership, Teamwork<br><br>Certifications 📜<br>☁️ AWS Educate: Introduction to Cloud<br>🎨 Simplilearn: Front-End Development (HTML, CSS, JS, Git, GitHub)<br>🤖 Oracle Certified: AI Foundations Associate<br>Volunteer Experience 🤝<br>IEEE Society: Director<br>DHOR Edu Clan: Volunteer (2022–2023)<br>Contact 📧<br>📩 Email: arunkumarjuswani12@gmail.com<br>💻 GitHub: arunkumar231105<br>🔗 LinkedIn: Arun Kumar<br>🌐 Portfolio: arunkumar-three.vercel.app
+# 💫 About Me
+
+I'm a Software Engineering student and a full stack MERN developer.  
+Currently pursuing a Cloud Data Engineering course at SMIT.  
+I build web applications and explore AI and cloud technologies.
+
+---
+
+## 🌟 Experience
+
+💻 **Software Engineer AI Intern | HexaVibes Solutions**  
+- Prototyping generative AI solutions using LLMs and transformers  
+- Building AI driven software systems  
+- Collaborating on experimental features  
+- Maintaining clean code and documentation  
+
+🎨 **Front End Developer Intern | High Tech Software House and Training Centre**
+
+🎪 **IT Team Member | ZabeFest 2025**  
+University tech event
+
+🌐 **Remote Internships**  
+- Java Developer Intern, 4 weeks  
+- C plus plus Developer Intern, 4 weeks  
+
+---
+
+## 🛠 Technical Skills
+
+**Languages**  
+JavaScript, Java, C, C plus plus, SQL, HTML, CSS  
+
+**Frameworks**  
+React, Node.js, Next.js, Chakra UI  
+
+**Tools**  
+Git, GitHub, VS Code, Firebase, Vercel, Figma, TensorFlow.js  
+
+**Soft Skills**  
+Communication, Problem solving, Leadership, Teamwork  
+
+---
+
+## 📜 Certifications
+
+☁️ AWS Educate. Introduction to Cloud  
+🎨 Simplilearn. Front End Development using HTML CSS JavaScript Git GitHub  
+🤖 Oracle Certified. AI Foundations Associate  
+
+---
+
+## 🤝 Volunteer Experience
+
+IEEE Society. Director  
+DHOR Edu Clan. Volunteer, 2022 to 2023  
+
+---
+
+## 📧 Contact
+
+📩 Email: arunkumarjuswani12@gmail.com  
+💻 GitHub: https://github.com/arunkumar231105  
+🔗 LinkedIn: https://www.linkedin.com/in/arun-kumar  
+🌐 Portfolio: https://arunkumar-three.vercel.app
 
 
 ## 🌐 Socials:
@@ -16,3 +78,4 @@ About Me<br>I'm a Software Engineering student and a full-stack MERN developer. 
 [![](https://visitcount.itsvg.in/api?id=arunkumar231105&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
